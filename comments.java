@@ -13,26 +13,6 @@ public class comments {
 		 * comment.
 		 */ 
 		
-		/*
-
-<div class=code><pre>
-      public class helloWorld {
-      
-        public static void main(String[] args){
-            System.out.println("Hello World!");
-        }
-      
-      }
-      
-</pre></div>
-
-
-		 * 
-		 * 
-		 * 
-		 * 
-		 */
-		
 	}
 
 }
